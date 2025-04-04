@@ -2,9 +2,9 @@
 
 - 🔭 I’m currently working on a game
 - 💬 Ask me about server-side engineering for live services
-- 📫 How to reach me: linkedin 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tyoungjr/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I was the only left handed person in my family.
+- ⚡ Fun fact: I was the only left-handed person in my family growing up. 
 <!--
 **t-money-g/t-money-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
